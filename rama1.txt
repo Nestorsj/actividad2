@@ -1,2 +1,6 @@
 Creo primer archivo de mirama
+<<<<<<< HEAD
 Cambios para conflicto en master
+=======
+Cambios para conflicto en mirama
+>>>>>>> mirama
